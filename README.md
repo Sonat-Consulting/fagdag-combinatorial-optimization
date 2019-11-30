@@ -38,7 +38,7 @@ The attendees filled out a form where they chose the conferences that they prefe
 The instance below consists of 2 tracks, 2 times and 4 presentations.
 There are only 3 possible schedules, and one of them is optimal.
 
-![](presentation/images/7.png)
+![](mwe.png)
 
 ### Input data format
 
